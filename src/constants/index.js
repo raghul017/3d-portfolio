@@ -25,13 +25,13 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: "MongoDB",
-        path: "/assets/logos/mongodb.svg",
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
       },
       {
         id: 4,
-        name: "Redis",
-        path: "/assets/logos/redis.svg",
+        name: "Gemini AI",
+        path: "/assets/logos/gemini.svg",
       },
     ],
   },
@@ -61,13 +61,13 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: "PostgreSQL",
-        path: "/assets/logos/postgresql.svg",
+        name: "Socket.io",
+        path: "/assets/logos/socketio.svg",
       },
       {
         id: 4,
-        name: "Redis",
-        path: "/assets/logos/redis.svg",
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
       },
     ],
   },
@@ -87,8 +87,8 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Python",
-        path: "/assets/logos/python.svg",
+        name: "React",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
@@ -97,13 +97,13 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: "React",
-        path: "/assets/logos/react.svg",
+        name: "Tailwind CSS",
+        path: "/assets/logos/tailwindcss.svg",
       },
       {
         id: 4,
-        name: "Tailwind CSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "Zustand",
+        path: "/assets/logos/zustand.svg",
       },
     ],
   },
@@ -113,7 +113,7 @@ export const mySocials = [
   {
     name: "GitHub",
     href: "https://github.com/raghul017",
-    icon: "/assets/socials/github.svg",
+    icon: "/assets/logos/github.svg",
   },
   {
     name: "Linkedin",
@@ -121,9 +121,9 @@ export const mySocials = [
     icon: "/assets/socials/linkedIn.svg",
   },
   {
-    name: "Email",
-    href: "mailto:raghul017@gmail.com",
-    icon: "/assets/socials/email.svg",
+    name: "Instagram",
+    href: "https://instagram.com/raghul017",
+    icon: "/assets/socials/instagram.svg",
   },
 ];
 
